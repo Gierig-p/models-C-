@@ -1,0 +1,14 @@
+e:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\novo-projeto\bin\Debug\net8.0\novo-projeto.exe
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\novo-projeto\bin\Debug\net8.0\novo-projeto.deps.json
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\novo-projeto\bin\Debug\net8.0\novo-projeto.runtimeconfig.json
+e:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\novo-projeto\bin\Debug\net8.0\novo-projeto.dll
+e:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\novo-projeto\bin\Debug\net8.0\novo-projeto.pdb
+e:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\novo-projeto\obj\Debug\net8.0\novo-projeto.GeneratedMSBuildEditorConfig.editorconfig
+e:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\novo-projeto\obj\Debug\net8.0\novo-projeto.AssemblyInfoInputs.cache
+e:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\novo-projeto\obj\Debug\net8.0\novo-projeto.AssemblyInfo.cs
+e:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\novo-projeto\obj\Debug\net8.0\novo-projeto.csproj.CoreCompileInputs.cache
+e:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\novo-projeto\obj\Debug\net8.0\novo-projeto.dll
+e:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\novo-projeto\obj\Debug\net8.0\refint\novo-projeto.dll
+e:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\novo-projeto\obj\Debug\net8.0\novo-projeto.pdb
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\novo-projeto\obj\Debug\net8.0\novo-projeto.genruntimeconfig.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\novo-projeto\obj\Debug\net8.0\ref\novo-projeto.dll
